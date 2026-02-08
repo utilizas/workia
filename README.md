@@ -37,7 +37,7 @@ Documento generado con [Quarto](https://quarto.org) + R
 ## 📝 Autoría
 
 - **Miguel Moreno** ([ORCID: 0000-0002-0746-9587](https://orcid.org/0000-0002-0746-9587))
-- **Unidad de análisis** - Integración asistida por IA
+- **Análisis** - Integración asistida por IA
 
 ## 📜 Licencia
 
