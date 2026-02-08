@@ -6,7 +6,7 @@ Análisis integrado del impacto de los servicios de IA generativa y agéntica so
 
 ## 🌐 Ver documento
 
-**[workia.vercel.app](https://workia.vercel.app)**
+**[https://workia-sigma.vercel.app](https://workia-sigma.vercel.app/)**
 
 ## 📄 Contenido
 
