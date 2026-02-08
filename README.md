@@ -37,15 +37,55 @@ Documento generado con [Quarto](https://quarto.org) + R
 ## 📝 Autoría
 
 - **Miguel Moreno** ([ORCID: 0000-0002-0746-9587](https://orcid.org/0000-0002-0746-9587))
-- **Análisis** - Integración asistida por IA
+- **Análisis supervisado** - Integración asistida por IA
 
-## 📜 Licencia
+<details>
+<summary><strong>📌 Nota metodológica</strong> (clic para expandir)</summary>
 
-**CC BY-NC-SA 4.0** - Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+<br>
 
-Puedes compartir y adaptar este material siempre que des crédito apropiado, no lo uses comercialmente y distribuyas bajo la misma licencia.
+Este informe ha sido elaborado mediante un proceso híbrido que combina revisión humana con procedimientos de síntesis asistida por sistemas de inteligencia artificial. 
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+**Responsabilidad editorial**: La responsabilidad editorial, metodológica y de validación recae exclusivamente en el autor humano. Las herramientas y servicios de investigación empleados han contribuido a la integración, organización y reformulación de evidencia, pero no pueden ser considerados autores en sentido estricto, dado que no poseen agencia epistémica ni capacidad de asumir responsabilidad sobre los contenidos.
+
+**Fuentes**: El documento sintetiza 52 referencias de organizaciones internacionales (ILO, OECD, IMF, WEF), consultoras (McKinsey, Goldman Sachs, Gartner), instituciones académicas (MIT, Stanford, CMU) y empresas tecnológicas (GitHub, Anthropic, IBM).
+
+La atribución de roles en la sección de autoría refleja esta distinción entre supervisión humana y asistencia técnica automatizada.
+
+</details>
+
+---
+
+## 📜 Licencia CC BY-NC-SA 4.0:
+
+- Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+- Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Copyright (c) 2026 Miguel Moreno
+
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+
+Para ver una copia de esta licencia, visita:
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
+Usted es libre de:
+
+- Compartir — copiar y redistribuir el material en cualquier medio o formato
+- Adaptar — remezclar, transformar y construir a partir del material
+
+Bajo los siguientes términos:
+
+- Atribución — Debe dar crédito de manera adecuada, brindar un enlace a la licencia, 
+  e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, 
+  pero no de forma tal que sugiera que usted o su uso tienen el apoyo del licenciante.
+
+- NoComercial — No puede utilizar el material para una finalidad comercial.
+
+- CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir 
+  su contribución bajo la misma licencia del original.
+
+- No hay restricciones adicionales — No puede aplicar términos legales ni medidas tecnológicas 
+  que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.
 
 ---
 
