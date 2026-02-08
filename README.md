@@ -1,8 +1,6 @@
-# Workia
+# Impacto laboral de la IA generativa y agéntica (2025-2031)
 
-**Impacto laboral de la IA generativa y agéntica (2025-2031)**
-
-Análisis integrado del impacto de los servicios de IA generativa y agéntica sobre cinco sectores de empleo masivo.
+## Análisis integrado del impacto de los servicios de IA generativa y agéntica sobre cinco sectores de empleo masivo
 
 ## 🌐 Ver documento
 
@@ -30,14 +28,14 @@ Documento único HTML autocontenido que analiza:
 - **59% fuerza laboral** requiere reskilling
 - **3 escenarios para 2030**: Transformación próspera, Transición gestionada, Disrupción masiva
 
-## 🛠️ Tecnología
-
-Documento generado con [Quarto](https://quarto.org) + R
-
 ## 📝 Autoría
 
 - **Miguel Moreno** ([ORCID: 0000-0002-0746-9587](https://orcid.org/0000-0002-0746-9587))
 - **Análisis supervisado** - Integración asistida por IA
+
+## 🛠️ Tecnología
+
+- Documento generado con [Quarto](https://quarto.org) + R
 
 <details>
 <summary><strong>📌 Nota metodológica</strong> (clic para expandir)</summary>
