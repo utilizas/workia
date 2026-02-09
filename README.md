@@ -4,7 +4,8 @@
 
 ## 🌐 Ver documento
 
-**[https://workia-sigma.vercel.app](https://workia-sigma.vercel.app/)**
+- **[https://workia-sigma.vercel.app](https://workia-sigma.vercel.app/)**
+- **[https://workia-sigma.netlify.app/](https://workia-sigma.netlify.app/)**
 
 ## 📄 Contenido
 
