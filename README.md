@@ -1,6 +1,13 @@
 # Impacto laboral de la IA generativa y agéntica (2025-2031)
-
 ## Análisis integrado del impacto de los servicios de IA generativa y agéntica sobre cinco sectores de empleo masivo
+
+## Resumen
+
+Este informe analiza cómo los sistemas de inteligencia artificial están transformando varios sectores de empleo masivo a nivel global. Basado en 52 fuentes de organizaciones internacionales (ILO, OECD, WEF), consultoras líderes (McKinsey, Goldman Sachs) e instituciones académicas (MIT, Stanford), el documento presenta evidencia cuantitativa sobre adopción tecnológica, desplazamiento laboral y transformación de roles profesionales.  
+
+El análisis y las visualizaciones incluidas permiten entender dinámicas y tendencias de gran impacto. Mientras el desarrollo de software asistido por IA experimenta un incremento neto del empleo, la creación de contenido se enfrenta a una importante reducción en oportunidades de trabajo. El análisis sustenta proyecciones que generan motivos fundados de preocupación entre diversos colectivos, si bien los empleos creados (170 millones) superarían con creces a los desplazados (92 millones) hacia 2030, lo que obligaría a considerar programas ambiciosos de reentrenamiento y _upskilling_, puesto que casi el 60% de la fuerza laboral estaría necesitado de reconversión profesional en diverso grado.  
+
+El informe incluye un hoja de ruta para el periodo 2026-2031, tres escenarios alternativos de impacto, y recomendaciones específicas para profesionales en transición. Ideal para estudiantes de posgrado que buscan orientarse estratégicamente en un mercado laboral sujeto a procesos de transformación acelerada.
 
 ## 🌐 Ver documento
 
